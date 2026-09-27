@@ -1,0 +1,5 @@
+backend/.venv/
+backend/profiles.db
+frontend/node_modules/
+frontend/.next/
+.env

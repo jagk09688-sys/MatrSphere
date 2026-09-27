@@ -1,0 +1,2 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700;800&display=swap');
+:root { --ink:#1c2520; --muted:#718078; --line:#dce6df; --paper:#f7faf8; --mint:#dcefe7; --green:#1d7356; --coral:#e27c61; } *{box-sizing:border-box} body{margin:0;background:var(--paper);color:var(--ink);font-family:'Manrope',sans-serif}button,input{font:inherit}button{cursor:pointer}
